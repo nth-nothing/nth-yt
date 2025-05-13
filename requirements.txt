@@ -1,2 +1,2 @@
-Flask==2.2.2
-yt-dlp==2025.2.22
+Flask
+yt_dlp
